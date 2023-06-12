@@ -1,0 +1,63 @@
+{
+	"alwaysOnTop": false,
+	"language": "en",
+	"microphone": "d10c596232ed386c0bf1ffba6fc728d90cefc5cce8ad889d91899bb333370911",
+	"speaker": "a4b5e779b2feb579d7f055903127c9d9dc053faf70d64d373d3332409a23aea9",
+	"pushToTalkMode": 0,
+	"serverURL": "https://bettercrewl.ink",
+	"pushToTalkShortcut": "V",
+	"deafenShortcut": "RControl",
+	"impostorRadioShortcut": "F",
+	"muteShortcut": "RAlt",
+	"hideCode": false,
+	"compactOverlay": false,
+	"overlayPosition": "right",
+	"meetingOverlay": false,
+	"enableOverlay": false,
+	"crewVolumeAsGhost": 100,
+	"ghostVolumeAsImpostor": 50,
+	"masterVolume": 100,
+	"microphoneGain": 100,
+	"microphoneGainEnabled": false,
+	"micSensitivity": 0.15,
+	"micSensitivityEnabled": false,
+	"natFix": false,
+	"mobileHost": true,
+	"vadEnabled": true,
+	"hardware_acceleration": true,
+	"enableSpatialAudio": true,
+	"obsOverlay": false,
+	"echoCancellation": true,
+	"noiseSuppression": true,
+	"oldSampleDebug": false,
+	"playerConfigMap": {
+		"-553678908": {
+			"volume": 1,
+			"isMuted": false
+		}
+	},
+	"localLobbySettings": {
+		"maxDistance": 5.32,
+		"haunting": false,
+		"commsSabotage": false,
+		"hearImpostorsInVents": false,
+		"hearThroughCameras": false,
+		"wallsBlockAudio": false,
+		"deadOnly": false,
+		"meetingGhostOnly": false,
+		"visionHearing": false,
+		"publicLobby_on": false,
+		"publicLobby_title": "",
+		"publicLobby_language": "en",
+		"publicLobby_mods": "NONE",
+		"impostersHearImpostersInvent": false,
+		"impostorRadioEnabled": false
+	},
+	"launchPlatform": "STEAM",
+	"customPlatforms": {},
+	"__internal__": {
+		"migrations": {
+			"version": "3.1.1"
+		}
+	}
+}
